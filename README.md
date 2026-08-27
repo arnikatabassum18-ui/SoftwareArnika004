@@ -33,11 +33,11 @@ Course Name: Software Engineering Sessional
   </tr>
   <tr>
     <td align="center">Sudipto Saha</td>
-    <td align="center">Md Mahfuz Hossain</td>
+    <td align="center">Arnika Tabassum</td>
   </tr>
   <tr>
     <td align="center">Lecturer,</td>
-    <td align="center">ID: 0812220205171003</td>
+    <td align="center">ID: 0812220105171004</td>
   </tr>
   <tr>
     <td align="center">Department of ICE, BAUET</td>
@@ -73,7 +73,7 @@ Course Name: Software Engineering Sessional
       <td align="center">02.</td>
       <td align="center">Lab Report 2</td>
       <td align="center">
-        <a href="Lab%202/lab2.md">Report-2</a>
+        <a href="LAB-2/lab2.md">Report-2</a>
       </td>
     </tr>
   </tbody>
