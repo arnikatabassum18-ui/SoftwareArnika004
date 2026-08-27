@@ -66,7 +66,7 @@ Course Name: Software Engineering Sessional
       <td align="center">01.</td>
       <td align="center">Introduction to Markdown</td>
       <td align="center">
-        <a href="Lab%201/lab1.md">Report-1</a>
+        <a href="lab1.md">Report-1</a>
       </td>
     </tr>
     <tr>
