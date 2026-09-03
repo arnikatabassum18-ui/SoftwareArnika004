@@ -17,7 +17,10 @@ Git is a distributed version control system used to track changes in source code
 
 It provides commands for creating repositories, adding files, committing changes, and managing branches. Git helps developers maintain different versions and collaborate efficiently on projects.
 
+
 ## **Result: -**
+![Git1 command](Git1.jpeg)
+![Git2 command](Git2.jpeg)
 
 
 ## **Conclusion: -**
