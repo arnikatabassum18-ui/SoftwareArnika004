@@ -98,7 +98,7 @@ print(friend)
 ```
 ---
 
-
+```markdown
 You can learn more about friendship from [Wikipedia](https://en.wikipedia.org/wiki/Friendship).
 
 ![Best Friend]=
